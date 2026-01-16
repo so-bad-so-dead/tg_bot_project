@@ -1,0 +1,6 @@
+aiogram==3.*
+pandas
+dotenv
+requests
+geopy
+timezonefinder
