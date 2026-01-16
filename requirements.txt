@@ -4,3 +4,4 @@ dotenv
 requests
 geopy
 timezonefinder
+httpx
